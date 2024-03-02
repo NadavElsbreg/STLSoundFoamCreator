@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\bin\Debug\net5.0\PhotoCreator.exe
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\bin\Debug\net5.0\PhotoCreator.deps.json
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\bin\Debug\net5.0\PhotoCreator.runtimeconfig.json
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\bin\Debug\net5.0\PhotoCreator.runtimeconfig.dev.json
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\bin\Debug\net5.0\PhotoCreator.dll
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\bin\Debug\net5.0\ref\PhotoCreator.dll
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\bin\Debug\net5.0\PhotoCreator.pdb
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\obj\Debug\net5.0\PhotoCreator.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\obj\Debug\net5.0\PhotoCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\obj\Debug\net5.0\PhotoCreator.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\obj\Debug\net5.0\PhotoCreator.AssemblyInfo.cs
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\obj\Debug\net5.0\PhotoCreator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\obj\Debug\net5.0\PhotoCreator.dll
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\obj\Debug\net5.0\ref\PhotoCreator.dll
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\obj\Debug\net5.0\PhotoCreator.pdb
+C:\Users\USER\Desktop\STLSoundFoamCreator\PhotoCreator\obj\Debug\net5.0\PhotoCreator.genruntimeconfig.cache
